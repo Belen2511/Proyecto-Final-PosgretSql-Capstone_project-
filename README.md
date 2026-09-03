@@ -1,2 +1,2 @@
-# Proyecto-Capstore_project-
-Analisis de E-comemce
+# Proyecto-Capstone_project-
+"Capstone: analisis de ventas E-comemce en PostgreSQL"
