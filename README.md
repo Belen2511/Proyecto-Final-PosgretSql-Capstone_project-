@@ -95,8 +95,7 @@ psql -U postgres -d capstone_project -f 02_analysis_queries.sql
 
 > Nota tecnica: `01_schema_and_data.sql` usa `CREATE DATABASE` seguido de
 > `\c capstone_project` para crear la base y "saltar" a ella dentro del
-> mismo archivo — por eso necesita `psql` (no funciona igual con un driver
-> que solo ejecuta el archivo como una sola sentencia SQL plana).
+> mismo archivo — por eso necesita `psql`.
 
 El dataset crudo (`data/ecommerce_dataset_raw.csv`) ya está embebido como
 sentencias `INSERT` dentro de `01_schema_and_data.sql`, así que no hace
