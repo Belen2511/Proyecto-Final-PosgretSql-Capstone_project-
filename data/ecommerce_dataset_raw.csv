@@ -1,7 +1,7 @@
 ﻿order_id,order_date,customer_id,customer_name,customer_email,customer_city,customer_country,product_id,product_name,category,unit_price,quantity,total_amount,shipping_cost,payment_method,order_status
 ORD-001792,2024-09-01,CUST-00180,Thiago Benjamin Catalina Martinez,thiago.benjamin.catalina.martinez180@mail.com,Montevideo,Uruguay,PROD-00028,Gorra Ajustable,Indumentaria,6815.94,2,13631.88,1891.14,Mercado Pago,Completado
 ORD-001026,2024-09-01,CUST-00131,Martina Romero,martina.romero131@mail.com,Valparaiso,Chile,PROD-00050,Set de Pinceles,Belleza,6165.29,1,6165.29,4901.56,Tarjeta de Debito,Completado
-ORD-001067,,CUST-00161,Catalina Diaz Ledesma,catalina.diaz.ledesma161@mail.com,Santiago,Chile,PROD-00004,Parlante Portatil,Electronica,386249.86,4,1544999.44,0.0,Efectivo,Enviado
+ORD-001067,2024-09-01,CUST-00161,Catalina Diaz Ledesma,catalina.diaz.ledesma161@mail.com,Santiago,Chile,PROD-00004,Parlante Portatil,Electronica,386249.86,4,1544999.44,0.0,Efectivo,Enviado
 ORD-000798,2024-09-01,CUST-00080,Manuel Miguel Angel Nuñez,manuel.miguel.angel.nunez80@mail.com,Valencia,Espana,PROD-00055,Peluche Grande,Juguetes,31258.68,5,156293.4,0.0,Tarjeta de Credito,Pendiente
 ORD-000931,2024-09-02,CUST-00084,Sr(a). Gabriel Martinez,sr(a)..gabriel.martinez84@mail.com,Rosario,Argentina,PROD-00012,Cafetera Electrica,Hogar,40917.73,5,204588.65,0.0,Mercado Pago,Pendiente
 ORD-000650,2024-09-02,CUST-00276,Thiago Nicolas Bruno Villalba,thiago.nicolas.bruno.villalba276@mail.com,Montevideo,Uruguay,PROD-00002,Smartwatch,Electronica,168015.08,2,336030.16,0.0,Efectivo,Enviado
